@@ -1,2 +1,2 @@
-# senior-thesis
+# seniorThesis
 Princeton University Senior Thesis
